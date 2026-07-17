@@ -1,0 +1,25 @@
+/* C:\PoliceAI-Command-Center\client\src\index.css */
+@import "tailwindcss";
+
+
+html,
+body,
+#root{
+
+height:100%;
+
+}
+
+
+body{
+
+margin:0;
+
+background:#020617;
+
+font-family:
+Inter,
+Arial,
+sans-serif;
+
+}

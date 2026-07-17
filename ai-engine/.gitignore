@@ -1,0 +1,17 @@
+# C:\PoliceAI-Command-Center\ai-engine\.gitignore
+
+# Virtual environment
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Jupyter checkpoints (if any)
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
